@@ -5,8 +5,8 @@ and was built based on the [design spec](https://github.com/Mohammad-ghadban/Tea
 
 you may see the project [here](https://mohammad-ghadban.github.io/Tea_Cozy/)
 
-feel free to contact me about the project or any other project ay:
-whatsapp: [+963 999 143 199](https://api.whatsapp.com/send?phone=963999143199)
+feel free to contact me about the project or any other project at:
+Whatsapp: [+963 999 143 199](https://api.whatsapp.com/send?phone=963999143199)
 
 E-mail: <Mohammad.al.ghadban0@gmail.com>
 
